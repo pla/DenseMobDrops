@@ -1,0 +1,46 @@
+{
+  "_fv": 10,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Bone4"
+      },
+      {
+        "value": "CUSTOM:Bone4"
+      },
+      {
+        "value": "CUSTOM:Bone4"
+      },
+      {
+        "value": "CUSTOM:Bone4"
+      },
+      {
+        "value": "CUSTOM:Bone4"
+      },
+      {
+        "value": "CUSTOM:Bone4"
+      },
+      {
+        "value": "CUSTOM:Bone4"
+      },
+      {
+        "value": "CUSTOM:Bone4"
+      },
+      {
+        "value": "CUSTOM:Bone4"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Bone5"
+    },
+    "name": "bone_block_c_4",
+    "namespace": "mod"
+  }
+}

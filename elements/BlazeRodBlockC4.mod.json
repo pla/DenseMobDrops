@@ -1,0 +1,46 @@
+{
+  "_fv": 10,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BlazeRod4"
+      },
+      {
+        "value": "CUSTOM:BlazeRod4"
+      },
+      {
+        "value": "CUSTOM:BlazeRod4"
+      },
+      {
+        "value": "CUSTOM:BlazeRod4"
+      },
+      {
+        "value": "CUSTOM:BlazeRod4"
+      },
+      {
+        "value": "CUSTOM:BlazeRod4"
+      },
+      {
+        "value": "CUSTOM:BlazeRod4"
+      },
+      {
+        "value": "CUSTOM:BlazeRod4"
+      },
+      {
+        "value": "CUSTOM:BlazeRod4"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlazeRod5"
+    },
+    "name": "blaze_rod_block_c_4",
+    "namespace": "mod"
+  }
+}

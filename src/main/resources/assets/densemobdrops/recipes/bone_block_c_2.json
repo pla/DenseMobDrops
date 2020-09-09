@@ -1,0 +1,37 @@
+{
+  "group": "densemobdrops",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "densemobdrops:bone_2"
+    },
+    {
+      "item": "densemobdrops:bone_2"
+    },
+    {
+      "item": "densemobdrops:bone_2"
+    },
+    {
+      "item": "densemobdrops:bone_2"
+    },
+    {
+      "item": "densemobdrops:bone_2"
+    },
+    {
+      "item": "densemobdrops:bone_2"
+    },
+    {
+      "item": "densemobdrops:bone_2"
+    },
+    {
+      "item": "densemobdrops:bone_2"
+    },
+    {
+      "item": "densemobdrops:bone_2"
+    }
+  ],
+  "result": {
+    "item": "densemobdrops:bone_3",
+    "count": 1
+  }
+}

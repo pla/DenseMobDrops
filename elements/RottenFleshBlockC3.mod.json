@@ -1,0 +1,46 @@
+{
+  "_fv": 10,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RottenFlesh3"
+      },
+      {
+        "value": "CUSTOM:RottenFlesh3"
+      },
+      {
+        "value": "CUSTOM:RottenFlesh3"
+      },
+      {
+        "value": "CUSTOM:RottenFlesh3"
+      },
+      {
+        "value": "CUSTOM:RottenFlesh3"
+      },
+      {
+        "value": "CUSTOM:RottenFlesh3"
+      },
+      {
+        "value": "CUSTOM:RottenFlesh3"
+      },
+      {
+        "value": "CUSTOM:RottenFlesh3"
+      },
+      {
+        "value": "CUSTOM:RottenFlesh3"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RottenFlesh4"
+    },
+    "name": "rotten_flesh_block_c_3",
+    "namespace": "mod"
+  }
+}

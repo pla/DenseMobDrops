@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "densemobdrops:blocks/magmacream_2_x64",
+    "up": "densemobdrops:blocks/magmacream_2_x64",
+    "north": "densemobdrops:blocks/magmacream_2_x64",
+    "east": "densemobdrops:blocks/magmacream_2_x64",
+    "south": "densemobdrops:blocks/magmacream_2_x64",
+    "west": "densemobdrops:blocks/magmacream_2_x64",
+    "particle": "densemobdrops:blocks/magmacream_2_x64"
+  }
+}

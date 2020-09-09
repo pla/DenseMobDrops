@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "densemobdrops:blocks/spidereye_5_x64",
+    "up": "densemobdrops:blocks/spidereye_5_x64",
+    "north": "densemobdrops:blocks/spidereye_5_x64",
+    "east": "densemobdrops:blocks/spidereye_5_x64",
+    "south": "densemobdrops:blocks/spidereye_5_x64",
+    "west": "densemobdrops:blocks/spidereye_5_x64",
+    "particle": "densemobdrops:blocks/spidereye_5_x64"
+  }
+}

@@ -1,0 +1,1109 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "RottenFlesh1",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotten_flesh_1"
+    },
+    {
+      "name": "RottenFleshBlock",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotten_flesh_block"
+    },
+    {
+      "name": "RottenFleshUnblock",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotten_flesh_unblock"
+    },
+    {
+      "name": "RottenFlesh2",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotten_flesh_2"
+    },
+    {
+      "name": "RottenFlesh3",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotten_flesh_3"
+    },
+    {
+      "name": "RottenFlesh4",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotten_flesh_4"
+    },
+    {
+      "name": "EnderPearl1",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_pearl_1"
+    },
+    {
+      "name": "EnderPearlBLock",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_pearl_b_lock"
+    },
+    {
+      "name": "EnderPearlUnblock",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_pearl_unblock"
+    },
+    {
+      "name": "BlazeRod1",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_rod_1"
+    },
+    {
+      "name": "SpiderEye1",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider_eye_1"
+    },
+    {
+      "name": "Bone1",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_1"
+    },
+    {
+      "name": "GhastTear1",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghast_tear_1"
+    },
+    {
+      "name": "Slime1",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slime_1"
+    },
+    {
+      "name": "SlimeBlockC1",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slime_block_c_1"
+    },
+    {
+      "name": "BlazeRod2",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_rod_2"
+    },
+    {
+      "name": "BlazeRod3",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_rod_3"
+    },
+    {
+      "name": "BlazeRod4",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_rod_4"
+    },
+    {
+      "name": "BlazeRod5",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_rod_5"
+    },
+    {
+      "name": "SpiderEye2",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider_eye_2"
+    },
+    {
+      "name": "SpiderEye3",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider_eye_3"
+    },
+    {
+      "name": "EnderPearl2",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_pearl_2"
+    },
+    {
+      "name": "EnderPearl3",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_pearl_3"
+    },
+    {
+      "name": "Bone2",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_2"
+    },
+    {
+      "name": "Bone3",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_3"
+    },
+    {
+      "name": "GhastTear2",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghast_tear_2"
+    },
+    {
+      "name": "GhastTear3",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghast_tear_3"
+    },
+    {
+      "name": "Slime2",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slime_2"
+    },
+    {
+      "name": "String1",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_1"
+    },
+    {
+      "name": "String2",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_2"
+    },
+    {
+      "name": "String3",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_3"
+    },
+    {
+      "name": "BlazeRodBlock",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_rod_block"
+    },
+    {
+      "name": "BlazeRodUnblock",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_rod_unblock"
+    },
+    {
+      "name": "SlimeUnblock",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slime_unblock"
+    },
+    {
+      "name": "BoneBlock",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_block"
+    },
+    {
+      "name": "BoneUnblock",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_unblock"
+    },
+    {
+      "name": "GhastTearBlock",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghast_tear_block"
+    },
+    {
+      "name": "GhastTearUnblock",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghast_tear_unblock"
+    },
+    {
+      "name": "SpiderEyeUnblock",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider_eye_unblock"
+    },
+    {
+      "name": "StringBlock",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_block"
+    },
+    {
+      "name": "StringUnblock",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_unblock"
+    },
+    {
+      "name": "MagmaCream1",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_cream_1"
+    },
+    {
+      "name": "MagmaCream2",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_cream_2"
+    },
+    {
+      "name": "MagmaCream3",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_cream_3"
+    },
+    {
+      "name": "MagmaCreamBlock",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_cream_block"
+    },
+    {
+      "name": "MagmaCreamUnblock",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_cream_unblock"
+    },
+    {
+      "name": "BlazeRodBlockC1",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_rod_block_c_1"
+    },
+    {
+      "name": "BlazeRodBlockC2",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_rod_block_c_2"
+    },
+    {
+      "name": "BlazeRodBlockC3",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_rod_block_c_3"
+    },
+    {
+      "name": "BlazeRodBlockC4",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_rod_block_c_4"
+    },
+    {
+      "name": "BoneBlockC1",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_block_c_1"
+    },
+    {
+      "name": "BoneBlockC2",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_block_c_2"
+    },
+    {
+      "name": "EnderPearlBlockC1",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_pearl_block_c_1"
+    },
+    {
+      "name": "EnderPearlBlockC2",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_pearl_block_c_2"
+    },
+    {
+      "name": "GhastTearBlockC1",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghast_tear_block_c_1"
+    },
+    {
+      "name": "GhastTEarBlockC2",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghast_t_ear_block_c_2"
+    },
+    {
+      "name": "MagmaCreamBlockC1",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_cream_block_c_1"
+    },
+    {
+      "name": "MagmaCreamBlockC2",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_cream_block_c_2"
+    },
+    {
+      "name": "RottenFleshBlockC1",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotten_flesh_block_c_1"
+    },
+    {
+      "name": "RottenFleshBlockC2",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotten_flesh_block_c_2"
+    },
+    {
+      "name": "RottenFleshBlockC3",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotten_flesh_block_c_3"
+    },
+    {
+      "name": "SlimeBlockC2",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slime_block_c_2"
+    },
+    {
+      "name": "SpiderEyeC1",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider_eye_c_1"
+    },
+    {
+      "name": "SpiderEyeC2",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider_eye_c_2"
+    },
+    {
+      "name": "StringBlockC1",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_block_c_1"
+    },
+    {
+      "name": "StringBlockC2",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_block_c_2"
+    },
+    {
+      "name": "SpiderEyeBlock",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider_eye_block"
+    },
+    {
+      "name": "DenseMobDrops",
+      "type": "tab",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dense_mob_drops"
+    },
+    {
+      "name": "Gunpowder1",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gunpowder_1"
+    },
+    {
+      "name": "GunpowderBlock",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gunpowder_block"
+    },
+    {
+      "name": "GunpowderUnblock",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gunpowder_unblock"
+    },
+    {
+      "name": "Gunpowder2",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gunpowder_2"
+    },
+    {
+      "name": "Gunpowder3",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gunpowder_3"
+    },
+    {
+      "name": "GunpowderBlockC1",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gunpowder_block_c_1"
+    },
+    {
+      "name": "GunpowderBlockC2",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gunpowder_block_c_2"
+    },
+    {
+      "name": "NetherStar1",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_star_1"
+    },
+    {
+      "name": "NetherStarBLock",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_star_b_lock"
+    },
+    {
+      "name": "NetherStarUnblock",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_star_unblock"
+    },
+    {
+      "name": "NetherStar2",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_star_2"
+    },
+    {
+      "name": "NetherStar3",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_star_3"
+    },
+    {
+      "name": "Bone4",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_4"
+    },
+    {
+      "name": "Bone5",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_5"
+    },
+    {
+      "name": "BoneBlockC3",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_block_c_3"
+    },
+    {
+      "name": "BoneBlockC4",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_block_c_4"
+    },
+    {
+      "name": "EnderPearl4",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_pearl_4"
+    },
+    {
+      "name": "EnderPearl5",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_pearl_5"
+    },
+    {
+      "name": "EnderPearlBlockC3",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_pearl_block_c_3"
+    },
+    {
+      "name": "EnderPearlBlockC4",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_pearl_block_c_4"
+    },
+    {
+      "name": "GhastTear4",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghast_tear_4"
+    },
+    {
+      "name": "GhastTear5",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghast_tear_5"
+    },
+    {
+      "name": "GhastTearBlockC3",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghast_tear_block_c_3"
+    },
+    {
+      "name": "GhastTearBlockC4",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghast_tear_block_c_4"
+    },
+    {
+      "name": "Gunpowder4",
+      "type": "block",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gunpowder_4"
+    },
+    {
+      "name": "Gunpowder5",
+      "type": "block",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gunpowder_5"
+    },
+    {
+      "name": "GunpowderBlockC3",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gunpowder_block_c_3"
+    },
+    {
+      "name": "GunpowderBlockC4",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gunpowder_block_c_4"
+    },
+    {
+      "name": "MagmaCream4",
+      "type": "block",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_cream_4"
+    },
+    {
+      "name": "MagmaCream5",
+      "type": "block",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_cream_5"
+    },
+    {
+      "name": "MagmaCreamBlockC3",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_cream_block_c_3"
+    },
+    {
+      "name": "MagmaCreamBlockC4",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_cream_block_c_4"
+    },
+    {
+      "name": "RottenFlesh5",
+      "type": "block",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotten_flesh_5"
+    },
+    {
+      "name": "RottenFleshBlockC4",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotten_flesh_block_c_4"
+    },
+    {
+      "name": "Slime4",
+      "type": "block",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slime_4"
+    },
+    {
+      "name": "Slime5",
+      "type": "block",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slime_5"
+    },
+    {
+      "name": "SlimeBlockC3",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slime_block_c_3"
+    },
+    {
+      "name": "SlimeBlockC4",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slime_block_c_4"
+    },
+    {
+      "name": "SpiderEye4",
+      "type": "block",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider_eye_4"
+    },
+    {
+      "name": "SpiderEye5",
+      "type": "block",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider_eye_5"
+    },
+    {
+      "name": "SpiderEyeC3",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider_eye_c_3"
+    },
+    {
+      "name": "SpiderEyeC4",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider_eye_c_4"
+    },
+    {
+      "name": "String4",
+      "type": "block",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_4"
+    },
+    {
+      "name": "String5",
+      "type": "block",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_5"
+    },
+    {
+      "name": "StringBlockC3",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_block_c_3"
+    },
+    {
+      "name": "StringBlockC4",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_block_c_4"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "tile.string_1.name": "Block of Strings",
+      "tile.ghast_tear_5.name": "Quadtruple Compressed Ghast Tears",
+      "tile.bone_2.name": "Compressed Bones",
+      "tile.ender_pearl_4.name": "Triple Compressed Ender Pearls",
+      "tile.nether_star_1.name": "Block of Nether Stars",
+      "tile.gunpowder_2.name": "Compressed Gunpowder",
+      "tile.magma_cream_3.name": "Double Compressed Magma Cream",
+      "tile.nether_star_2.name": "Compressed Nether Stars",
+      "tile.blaze_rod_5.name": "Quintuple Compressed Blaze Rods",
+      "tile.slime_2.name": "Double Compressed Slime",
+      "tile.gunpowder_3.name": "Double Compressed Gunpowder",
+      "tile.bone_3.name": "Double Compressed Bones",
+      "tile.rotten_flesh_1.name": "Block of Rotten Flesh",
+      "tile.magma_cream_2.name": "Compressed Magma Cream",
+      "tile.spider_eye_4.name": "Triple Compressed Spider Eyes",
+      "tile.slime_1.name": "Compressed Slime",
+      "tile.slime_4.name": "Triple Compressed Slime",
+      "tile.rotten_flesh_3.name": "Double Compressed Rotten Flesh",
+      "tile.ender_pearl_5.name": "Quadtruple Compressed Ender Pearls",
+      "tile.spider_eye_1.name": "Block of Spider Eyes",
+      "tile.bone_5.name": "Quadtruple Compressed Bones",
+      "tile.gunpowder_4.name": "Triple Compressed Gunpowder",
+      "tile.nether_star_3.name": "Compressed Nether Stars",
+      "tile.ender_pearl_2.name": "Compressed Ender Pearls",
+      "tile.blaze_rod_3.name": "Triple Compressed Blaze Rods",
+      "tile.gunpowder_1.name": "Block of Gunpowder",
+      "tile.ghast_tear_2.name": "Compressed Ghast Tears",
+      "tile.string_4.name": "Triple Compressed Strings",
+      "tile.ender_pearl_1.name": "Block of Ender Pearls",
+      "tile.blaze_rod_2.name": "Compressed Blaze Rods",
+      "tile.gunpowder_5.name": "Quadtruple Compressed Gunpowder",
+      "tile.ghast_tear_3.name": "Double Compressed Ghast Tears",
+      "tile.string_3.name": "Double Compressed Strings",
+      "tile.rotten_flesh_4.name": "Triple Compressed Rotten Flesh",
+      "tile.magma_cream_5.name": "Quadtruple Compressed Magma Cream",
+      "tile.slime_5.name": "Quadtruple Compressed Slime",
+      "tile.spider_eye_3.name": "Double Compressed Spider Eyes",
+      "tile.blaze_rod_4.name": "Quadtruple Compressed Blaze Rods",
+      "itemGroup.tabdense_mob_drops": "Dense Mob Drops",
+      "tile.blaze_rod_1.name": "Block of Blaze Rods",
+      "tile.ender_pearl_3.name": "Double Compressed Ender Pearls",
+      "tile.ghast_tear_1.name": "Block of Ghast Tears",
+      "tile.rotten_flesh_5.name": "Quadtruple Compressed Rotten Flesh",
+      "tile.rotten_flesh_2.name": "Compressed Rotten Flesh",
+      "tile.ghast_tear_4.name": "Triple Compressed Ghast Tears",
+      "tile.bone_4.name": "Triple Compressed Bones",
+      "tile.spider_eye_5.name": "Quadtruple Compressed Spider Eyes",
+      "tile.spider_eye_2.name": "Compressed Spider Eyes",
+      "tile.magma_cream_1.name": "Block of Magma Cream",
+      "tile.magma_cream_4.name": "Triple Compressed Magma Cream",
+      "tile.bone_1.name": "Block of Bones",
+      "tile.string_5.name": "Quadtruple Compressed Strings",
+      "tile.string_2.name": "Compressed Strings"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "densemobdrops",
+    "modName": "Dense Mob Drops",
+    "version": "0.0.2",
+    "description": "Compressed Mob Drops",
+    "author": "EvilPLa",
+    "websiteURL": "https://dmd.evilpla.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.evilpla.densemobdrops",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

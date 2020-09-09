@@ -1,0 +1,37 @@
+{
+  "group": "densemobdrops",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "densemobdrops:ghast_tear_3"
+    },
+    {
+      "item": "densemobdrops:ghast_tear_3"
+    },
+    {
+      "item": "densemobdrops:ghast_tear_3"
+    },
+    {
+      "item": "densemobdrops:ghast_tear_3"
+    },
+    {
+      "item": "densemobdrops:ghast_tear_3"
+    },
+    {
+      "item": "densemobdrops:ghast_tear_3"
+    },
+    {
+      "item": "densemobdrops:ghast_tear_3"
+    },
+    {
+      "item": "densemobdrops:ghast_tear_3"
+    },
+    {
+      "item": "densemobdrops:ghast_tear_3"
+    }
+  ],
+  "result": {
+    "item": "densemobdrops:ghast_tear_4",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "densemobdrops",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "densemobdrops:rotten_flesh_1"
+    }
+  ],
+  "result": {
+    "item": "minecraft:rotten_flesh",
+    "count": 9
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "densemobdrops",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "densemobdrops:magma_cream_1"
+    }
+  ],
+  "result": {
+    "item": "minecraft:magma_cream",
+    "count": 9
+  }
+}

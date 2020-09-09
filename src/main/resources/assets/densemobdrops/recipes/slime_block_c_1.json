@@ -1,0 +1,37 @@
+{
+  "group": "densemobdrops",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:slime"
+    },
+    {
+      "item": "minecraft:slime"
+    },
+    {
+      "item": "minecraft:slime"
+    },
+    {
+      "item": "minecraft:slime"
+    },
+    {
+      "item": "minecraft:slime"
+    },
+    {
+      "item": "minecraft:slime"
+    },
+    {
+      "item": "minecraft:slime"
+    },
+    {
+      "item": "minecraft:slime"
+    },
+    {
+      "item": "minecraft:slime"
+    }
+  ],
+  "result": {
+    "item": "densemobdrops:slime_1",
+    "count": 1
+  }
+}

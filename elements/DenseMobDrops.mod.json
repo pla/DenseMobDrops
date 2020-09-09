@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "Dense Mob Drops",
+    "icon": {
+      "value": "Items.ENDER_PEARL"
+    },
+    "showSearch": false
+  }
+}
