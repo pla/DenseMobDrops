@@ -23,16 +23,16 @@ import net.evilpla.densemobdrops.ElementsDensemobdropsMod;
 import java.util.List;
 
 @ElementsDensemobdropsMod.ModElement.Tag
-public class BlockBlazeRod5 extends ElementsDensemobdropsMod.ModElement {
-	@GameRegistry.ObjectHolder("densemobdrops:blaze_rod_5")
+public class BlockBlazeRod6 extends ElementsDensemobdropsMod.ModElement {
+	@GameRegistry.ObjectHolder("densemobdrops:blaze_rod_6")
 	public static final Block block = null;
-	public BlockBlazeRod5(ElementsDensemobdropsMod instance) {
-		super(instance, 14);
+	public BlockBlazeRod6(ElementsDensemobdropsMod instance) {
+		super(instance, 116);
 	}
 
 	@Override
 	public void initElements() {
-		elements.blocks.add(() -> new BlockCustom().setRegistryName("blaze_rod_5"));
+		elements.blocks.add(() -> new BlockCustom().setRegistryName("blaze_rod_6"));
 		elements.items.add(() -> new ItemBlock(block).setRegistryName(block.getRegistryName()));
 	}
 
@@ -40,12 +40,12 @@ public class BlockBlazeRod5 extends ElementsDensemobdropsMod.ModElement {
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
 		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0,
-				new ModelResourceLocation("densemobdrops:blaze_rod_5", "inventory"));
+				new ModelResourceLocation("densemobdrops:blaze_rod_6", "inventory"));
 	}
 	public static class BlockCustom extends Block {
 		public BlockCustom() {
 			super(Material.WOOD);
-			setUnlocalizedName("blaze_rod_5");
+			setUnlocalizedName("blaze_rod_6");
 			setSoundType(SoundType.GROUND);
 			setHardness(1F);
 			setResistance(10F);
@@ -57,7 +57,7 @@ public class BlockBlazeRod5 extends ElementsDensemobdropsMod.ModElement {
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<String> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add("59049 Blaze Rods");
+			list.add("531k Blaze Rods");
 		}
 	}
 }

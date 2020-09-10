@@ -2,7 +2,7 @@
   "_fv": 10,
   "_type": "block",
   "definition": {
-    "texture": "blazerod_4_x64",
+    "texture": "blazerod_6_x64",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -22,9 +22,9 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "Triple Compressed Blaze Rods",
+    "name": "Quintuple Compressed Blaze Rods",
     "specialInfo": [
-      "6561 Blaze Rods"
+      "531k Blaze Rods"
     ],
     "hardness": 1.0,
     "resistance": 10.0,

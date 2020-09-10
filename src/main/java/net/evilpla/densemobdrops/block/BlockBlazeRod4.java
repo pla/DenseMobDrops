@@ -57,7 +57,7 @@ public class BlockBlazeRod4 extends ElementsDensemobdropsMod.ModElement {
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<String> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add("59049 Blaze Rods");
+			list.add("6561 Blaze Rods");
 		}
 	}
 }
