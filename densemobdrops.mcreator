@@ -1386,6 +1386,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "string_block_c_6"
+    },
+    {
+      "name": "NetherStarBlockC1",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_star_block_c_1"
+    },
+    {
+      "name": "NetherStarBlockC2",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_star_block_c_2"
     }
   ],
   "variable_elements": [],
@@ -1470,7 +1488,7 @@
   "workspaceSettings": {
     "modid": "densemobdrops",
     "modName": "Dense Mob Drops",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Compressed Mob Drops",
     "author": "EvilPLa",
     "websiteURL": "https://dmd.evilpla.net",

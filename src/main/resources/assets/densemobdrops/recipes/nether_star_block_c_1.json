@@ -1,0 +1,37 @@
+{
+  "group": "densemobdrops",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "densemobdrops:nether_star_1"
+    },
+    {
+      "item": "densemobdrops:nether_star_1"
+    },
+    {
+      "item": "densemobdrops:nether_star_1"
+    },
+    {
+      "item": "densemobdrops:nether_star_1"
+    },
+    {
+      "item": "densemobdrops:nether_star_1"
+    },
+    {
+      "item": "densemobdrops:nether_star_1"
+    },
+    {
+      "item": "densemobdrops:nether_star_1"
+    },
+    {
+      "item": "densemobdrops:nether_star_1"
+    },
+    {
+      "item": "densemobdrops:nether_star_1"
+    }
+  ],
+  "result": {
+    "item": "densemobdrops:nether_star_2",
+    "count": 1
+  }
+}
