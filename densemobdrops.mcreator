@@ -1098,6 +1098,294 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "bone_block_c_6"
+    },
+    {
+      "name": "EnderPearl6",
+      "type": "block",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_pearl_6"
+    },
+    {
+      "name": "EnderPearl7",
+      "type": "block",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_pearl_7"
+    },
+    {
+      "name": "EnderPearlBlockC5",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_pearl_block_c_5"
+    },
+    {
+      "name": "EnderPearlBlockC6",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_pearl_block_c_6"
+    },
+    {
+      "name": "GhastTear6",
+      "type": "block",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghast_tear_6"
+    },
+    {
+      "name": "GhastTear7",
+      "type": "block",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghast_tear_7"
+    },
+    {
+      "name": "GhastTearBlockC5",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghast_tear_block_c_5"
+    },
+    {
+      "name": "GhastTearBlockC6",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghast_tear_block_c_6"
+    },
+    {
+      "name": "Gunpowder6",
+      "type": "block",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gunpowder_6"
+    },
+    {
+      "name": "Gunpowder7",
+      "type": "block",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gunpowder_7"
+    },
+    {
+      "name": "GunpowderBlockC5",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gunpowder_block_c_5"
+    },
+    {
+      "name": "GunpowderBlockC6",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gunpowder_block_c_6"
+    },
+    {
+      "name": "MagmaCream6",
+      "type": "block",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_cream_6"
+    },
+    {
+      "name": "MagmaCream7",
+      "type": "block",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_cream_7"
+    },
+    {
+      "name": "MagmaCreamBlockC5",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_cream_block_c_5"
+    },
+    {
+      "name": "MagmaCreamBlockC6",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_cream_block_c_6"
+    },
+    {
+      "name": "RottenFlesh6",
+      "type": "block",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotten_flesh_6"
+    },
+    {
+      "name": "RottenFlesh7",
+      "type": "block",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotten_flesh_7"
+    },
+    {
+      "name": "RottenFleshBlockC5",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotten_flesh_block_c_5"
+    },
+    {
+      "name": "RottenFleshBlockC6",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotten_flesh_block_c_6"
+    },
+    {
+      "name": "Slime6",
+      "type": "block",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slime_6"
+    },
+    {
+      "name": "Slime7",
+      "type": "block",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slime_7"
+    },
+    {
+      "name": "SlimeBlockC5",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slime_block_c_5"
+    },
+    {
+      "name": "SlimeBlockC6",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slime_block_c_6"
+    },
+    {
+      "name": "SpiderEye6",
+      "type": "block",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider_eye_6"
+    },
+    {
+      "name": "SpiderEye7",
+      "type": "block",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider_eye_7"
+    },
+    {
+      "name": "SpiderEyeC5",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider_eye_c_5"
+    },
+    {
+      "name": "SpiderEyeC6",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spider_eye_c_6"
+    },
+    {
+      "name": "String6",
+      "type": "block",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_6"
+    },
+    {
+      "name": "String7",
+      "type": "block",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_7"
+    },
+    {
+      "name": "StringBlockC5",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_block_c_5"
+    },
+    {
+      "name": "StringBlockC6",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "string_block_c_6"
     }
   ],
   "variable_elements": [],
@@ -1107,7 +1395,9 @@
       "tile.string_1.name": "Block of Strings",
       "tile.ghast_tear_5.name": "Quadtruple Compressed Ghast Tears",
       "tile.bone_2.name": "Compressed Bones",
+      "tile.string_7.name": "Quintuple Compressed Strings",
       "tile.ender_pearl_4.name": "Triple Compressed Ender Pearls",
+      "tile.rotten_flesh_7.name": "Sextuple Compressed Rotten Flesh",
       "tile.nether_star_1.name": "Block of Nether Stars",
       "tile.gunpowder_2.name": "Compressed Gunpowder",
       "tile.magma_cream_3.name": "Double Compressed Magma Cream",
@@ -1116,12 +1406,18 @@
       "tile.blaze_rod_5.name": "Quatruple Compressed Blaze Rods",
       "tile.slime_2.name": "Double Compressed Slime",
       "tile.gunpowder_3.name": "Double Compressed Gunpowder",
+      "tile.ghast_tear_6.name": "Quintuple Compressed Ghast Tears",
       "tile.bone_3.name": "Double Compressed Bones",
-      "tile.magma_cream_2.name": "Compressed Magma Cream",
+      "tile.spider_eye_6.name": "Quintuple Compressed Spider Eyes",
       "tile.rotten_flesh_1.name": "Block of Rotten Flesh",
+      "tile.magma_cream_2.name": "Compressed Magma Cream",
       "tile.spider_eye_4.name": "Triple Compressed Spider Eyes",
+      "tile.gunpowder_7.name": "Sextuple Compressed Gunpowder",
+      "tile.slime_7.name": "Quintuple Compressed Slime",
       "tile.slime_1.name": "Compressed Slime",
+      "tile.spider_eye_7.name": "Sextuple Compressed Spider Eyes",
       "tile.slime_4.name": "Triple Compressed Slime",
+      "tile.string_6.name": "Quintuple Compressed Strings",
       "tile.rotten_flesh_3.name": "Double Compressed Rotten Flesh",
       "tile.ender_pearl_5.name": "Quadtruple Compressed Ender Pearls",
       "tile.spider_eye_1.name": "Block of Spider Eyes",
@@ -1131,12 +1427,17 @@
       "tile.nether_star_3.name": "Compressed Nether Stars",
       "tile.ender_pearl_2.name": "Compressed Ender Pearls",
       "tile.blaze_rod_3.name": "Double Compressed Blaze Rods",
+      "tile.rotten_flesh_6.name": "Quintuple Compressed Rotten Flesh",
       "tile.gunpowder_1.name": "Block of Gunpowder",
+      "tile.ender_pearl_7.name": "Sectuple Compressed Ender Pearls",
       "tile.ghast_tear_2.name": "Compressed Ghast Tears",
       "tile.string_4.name": "Triple Compressed Strings",
+      "tile.slime_6.name": "Quintuple Compressed Slime",
       "tile.ender_pearl_1.name": "Block of Ender Pearls",
       "tile.blaze_rod_2.name": "Compressed Blaze Rods",
+      "tile.magma_cream_6.name": "Quintuple Compressed Magma Cream",
       "tile.gunpowder_5.name": "Quadtruple Compressed Gunpowder",
+      "tile.gunpowder_6.name": "Quintuple Compressed Gunpowder",
       "tile.ghast_tear_3.name": "Double Compressed Ghast Tears",
       "tile.string_3.name": "Double Compressed Strings",
       "tile.rotten_flesh_4.name": "Triple Compressed Rotten Flesh",
@@ -1149,10 +1450,12 @@
       "tile.bone_6.name": "Quintuple Compressed Bones",
       "tile.ender_pearl_3.name": "Double Compressed Ender Pearls",
       "tile.ghast_tear_1.name": "Block of Ghast Tears",
+      "tile.ghast_tear_7.name": "Sextuple Compressed Ghast Tears",
       "tile.rotten_flesh_5.name": "Quadtruple Compressed Rotten Flesh",
       "tile.rotten_flesh_2.name": "Compressed Rotten Flesh",
       "tile.ghast_tear_4.name": "Triple Compressed Ghast Tears",
       "tile.blaze_rod_7.name": "Sextuple Compressed Blaze Rods",
+      "tile.ender_pearl_6.name": "Quintuple Compressed Ender Pearls",
       "tile.bone_4.name": "Triple Compressed Bones",
       "tile.spider_eye_5.name": "Quadtruple Compressed Spider Eyes",
       "tile.spider_eye_2.name": "Compressed Spider Eyes",
@@ -1160,7 +1463,8 @@
       "tile.magma_cream_4.name": "Triple Compressed Magma Cream",
       "tile.bone_1.name": "Block of Bones",
       "tile.string_5.name": "Quadtruple Compressed Strings",
-      "tile.string_2.name": "Compressed Strings"
+      "tile.string_2.name": "Compressed Strings",
+      "tile.magma_cream_7.name": "Sextuple Compressed Magma Cream"
     }
   },
   "workspaceSettings": {

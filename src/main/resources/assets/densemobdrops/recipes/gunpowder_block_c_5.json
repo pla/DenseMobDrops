@@ -1,0 +1,37 @@
+{
+  "group": "densemobdrops",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "densemobdrops:gunpowder_5"
+    },
+    {
+      "item": "densemobdrops:gunpowder_5"
+    },
+    {
+      "item": "densemobdrops:gunpowder_5"
+    },
+    {
+      "item": "densemobdrops:gunpowder_5"
+    },
+    {
+      "item": "densemobdrops:gunpowder_5"
+    },
+    {
+      "item": "densemobdrops:gunpowder_5"
+    },
+    {
+      "item": "densemobdrops:gunpowder_5"
+    },
+    {
+      "item": "densemobdrops:gunpowder_5"
+    },
+    {
+      "item": "densemobdrops:gunpowder_5"
+    }
+  ],
+  "result": {
+    "item": "densemobdrops:gunpowder_6",
+    "count": 1
+  }
+}

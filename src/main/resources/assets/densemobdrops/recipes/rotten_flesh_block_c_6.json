@@ -1,0 +1,37 @@
+{
+  "group": "densemobdrops",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "densemobdrops:rotten_flesh_6"
+    },
+    {
+      "item": "densemobdrops:rotten_flesh_6"
+    },
+    {
+      "item": "densemobdrops:rotten_flesh_6"
+    },
+    {
+      "item": "densemobdrops:rotten_flesh_6"
+    },
+    {
+      "item": "densemobdrops:rotten_flesh_6"
+    },
+    {
+      "item": "densemobdrops:rotten_flesh_6"
+    },
+    {
+      "item": "densemobdrops:rotten_flesh_6"
+    },
+    {
+      "item": "densemobdrops:rotten_flesh_6"
+    },
+    {
+      "item": "densemobdrops:rotten_flesh_6"
+    }
+  ],
+  "result": {
+    "item": "densemobdrops:rotten_flesh_7",
+    "count": 1
+  }
+}

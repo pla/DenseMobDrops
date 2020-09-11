@@ -1,0 +1,37 @@
+{
+  "group": "densemobdrops",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "densemobdrops:spider_eye_6"
+    },
+    {
+      "item": "densemobdrops:spider_eye_6"
+    },
+    {
+      "item": "densemobdrops:spider_eye_6"
+    },
+    {
+      "item": "densemobdrops:spider_eye_6"
+    },
+    {
+      "item": "densemobdrops:spider_eye_6"
+    },
+    {
+      "item": "densemobdrops:spider_eye_6"
+    },
+    {
+      "item": "densemobdrops:spider_eye_6"
+    },
+    {
+      "item": "densemobdrops:spider_eye_6"
+    },
+    {
+      "item": "densemobdrops:spider_eye_6"
+    }
+  ],
+  "result": {
+    "item": "densemobdrops:spider_eye_7",
+    "count": 1
+  }
+}

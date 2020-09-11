@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "densemobdrops:blocks/ghasttear_6_x64",
+    "up": "densemobdrops:blocks/ghasttear_6_x64",
+    "north": "densemobdrops:blocks/ghasttear_6_x64",
+    "east": "densemobdrops:blocks/ghasttear_6_x64",
+    "south": "densemobdrops:blocks/ghasttear_6_x64",
+    "west": "densemobdrops:blocks/ghasttear_6_x64",
+    "particle": "densemobdrops:blocks/ghasttear_6_x64"
+  }
+}

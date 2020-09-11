@@ -1,0 +1,37 @@
+{
+  "group": "densemobdrops",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "densemobdrops:magma_cream_6"
+    },
+    {
+      "item": "densemobdrops:magma_cream_6"
+    },
+    {
+      "item": "densemobdrops:magma_cream_6"
+    },
+    {
+      "item": "densemobdrops:magma_cream_6"
+    },
+    {
+      "item": "densemobdrops:magma_cream_6"
+    },
+    {
+      "item": "densemobdrops:magma_cream_6"
+    },
+    {
+      "item": "densemobdrops:magma_cream_6"
+    },
+    {
+      "item": "densemobdrops:magma_cream_6"
+    },
+    {
+      "item": "densemobdrops:magma_cream_6"
+    }
+  ],
+  "result": {
+    "item": "densemobdrops:magma_cream_7",
+    "count": 1
+  }
+}
