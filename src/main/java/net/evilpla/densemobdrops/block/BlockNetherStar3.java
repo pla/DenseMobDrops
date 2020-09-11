@@ -27,7 +27,7 @@ public class BlockNetherStar3 extends ElementsDensemobdropsMod.ModElement {
 	@GameRegistry.ObjectHolder("densemobdrops:nether_star_3")
 	public static final Block block = null;
 	public BlockNetherStar3(ElementsDensemobdropsMod instance) {
-		super(instance, 35);
+		super(instance, 72);
 	}
 
 	@Override

@@ -27,7 +27,7 @@ public class BlockBone1 extends ElementsDensemobdropsMod.ModElement {
 	@GameRegistry.ObjectHolder("densemobdrops:bone_1")
 	public static final Block block = null;
 	public BlockBone1(ElementsDensemobdropsMod instance) {
-		super(instance, 18);
+		super(instance, 35);
 	}
 
 	@Override

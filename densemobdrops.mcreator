@@ -13,7 +13,7 @@
     {
       "name": "RottenFleshBlock",
       "type": "recipe",
-      "sortid": 36,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -22,7 +22,7 @@
     {
       "name": "RottenFleshUnblock",
       "type": "recipe",
-      "sortid": 37,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -58,7 +58,7 @@
     {
       "name": "EnderPearl1",
       "type": "block",
-      "sortid": 5,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -67,7 +67,7 @@
     {
       "name": "EnderPearlBLock",
       "type": "recipe",
-      "sortid": 38,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -76,7 +76,7 @@
     {
       "name": "EnderPearlUnblock",
       "type": "recipe",
-      "sortid": 39,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -85,7 +85,7 @@
     {
       "name": "BlazeRod1",
       "type": "block",
-      "sortid": 10,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -94,7 +94,7 @@
     {
       "name": "SpiderEye1",
       "type": "block",
-      "sortid": 15,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -103,7 +103,7 @@
     {
       "name": "Bone1",
       "type": "block",
-      "sortid": 18,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -112,7 +112,7 @@
     {
       "name": "GhastTear1",
       "type": "block",
-      "sortid": 21,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -121,7 +121,7 @@
     {
       "name": "Slime1",
       "type": "block",
-      "sortid": 8,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -130,7 +130,7 @@
     {
       "name": "SlimeBlockC1",
       "type": "recipe",
-      "sortid": 40,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -139,7 +139,7 @@
     {
       "name": "BlazeRod2",
       "type": "block",
-      "sortid": 11,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -148,7 +148,7 @@
     {
       "name": "BlazeRod3",
       "type": "block",
-      "sortid": 12,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -157,7 +157,7 @@
     {
       "name": "BlazeRod4",
       "type": "block",
-      "sortid": 13,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -166,7 +166,7 @@
     {
       "name": "BlazeRod5",
       "type": "block",
-      "sortid": 14,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -175,7 +175,7 @@
     {
       "name": "SpiderEye2",
       "type": "block",
-      "sortid": 16,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -184,7 +184,7 @@
     {
       "name": "SpiderEye3",
       "type": "block",
-      "sortid": 17,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -193,7 +193,7 @@
     {
       "name": "EnderPearl2",
       "type": "block",
-      "sortid": 6,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -202,7 +202,7 @@
     {
       "name": "EnderPearl3",
       "type": "block",
-      "sortid": 7,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -211,7 +211,7 @@
     {
       "name": "Bone2",
       "type": "block",
-      "sortid": 19,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -220,7 +220,7 @@
     {
       "name": "Bone3",
       "type": "block",
-      "sortid": 20,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -229,7 +229,7 @@
     {
       "name": "GhastTear2",
       "type": "block",
-      "sortid": 22,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -238,7 +238,7 @@
     {
       "name": "GhastTear3",
       "type": "block",
-      "sortid": 23,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -247,7 +247,7 @@
     {
       "name": "Slime2",
       "type": "block",
-      "sortid": 9,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -256,7 +256,7 @@
     {
       "name": "String1",
       "type": "block",
-      "sortid": 24,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -265,7 +265,7 @@
     {
       "name": "String2",
       "type": "block",
-      "sortid": 25,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -274,7 +274,7 @@
     {
       "name": "String3",
       "type": "block",
-      "sortid": 26,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -283,7 +283,7 @@
     {
       "name": "BlazeRodBlock",
       "type": "recipe",
-      "sortid": 41,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -292,7 +292,7 @@
     {
       "name": "BlazeRodUnblock",
       "type": "recipe",
-      "sortid": 42,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -301,7 +301,7 @@
     {
       "name": "SlimeUnblock",
       "type": "recipe",
-      "sortid": 44,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -310,7 +310,7 @@
     {
       "name": "BoneBlock",
       "type": "recipe",
-      "sortid": 45,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -319,7 +319,7 @@
     {
       "name": "BoneUnblock",
       "type": "recipe",
-      "sortid": 46,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -328,7 +328,7 @@
     {
       "name": "GhastTearBlock",
       "type": "recipe",
-      "sortid": 47,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -337,7 +337,7 @@
     {
       "name": "GhastTearUnblock",
       "type": "recipe",
-      "sortid": 48,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -346,7 +346,7 @@
     {
       "name": "SpiderEyeUnblock",
       "type": "recipe",
-      "sortid": 49,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -355,7 +355,7 @@
     {
       "name": "StringBlock",
       "type": "recipe",
-      "sortid": 50,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -364,7 +364,7 @@
     {
       "name": "StringUnblock",
       "type": "recipe",
-      "sortid": 51,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -373,7 +373,7 @@
     {
       "name": "MagmaCream1",
       "type": "block",
-      "sortid": 27,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -382,7 +382,7 @@
     {
       "name": "MagmaCream2",
       "type": "block",
-      "sortid": 28,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -391,7 +391,7 @@
     {
       "name": "MagmaCream3",
       "type": "block",
-      "sortid": 29,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -400,7 +400,7 @@
     {
       "name": "MagmaCreamBlock",
       "type": "recipe",
-      "sortid": 52,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -409,7 +409,7 @@
     {
       "name": "MagmaCreamUnblock",
       "type": "recipe",
-      "sortid": 53,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -418,7 +418,7 @@
     {
       "name": "BlazeRodBlockC1",
       "type": "recipe",
-      "sortid": 54,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -427,7 +427,7 @@
     {
       "name": "BlazeRodBlockC2",
       "type": "recipe",
-      "sortid": 55,
+      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -436,7 +436,7 @@
     {
       "name": "BlazeRodBlockC3",
       "type": "recipe",
-      "sortid": 56,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -445,7 +445,7 @@
     {
       "name": "BlazeRodBlockC4",
       "type": "recipe",
-      "sortid": 57,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -454,7 +454,7 @@
     {
       "name": "BoneBlockC1",
       "type": "recipe",
-      "sortid": 58,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -463,7 +463,7 @@
     {
       "name": "BoneBlockC2",
       "type": "recipe",
-      "sortid": 59,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -472,7 +472,7 @@
     {
       "name": "EnderPearlBlockC1",
       "type": "recipe",
-      "sortid": 60,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -481,7 +481,7 @@
     {
       "name": "EnderPearlBlockC2",
       "type": "recipe",
-      "sortid": 61,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -490,7 +490,7 @@
     {
       "name": "GhastTearBlockC1",
       "type": "recipe",
-      "sortid": 62,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -499,7 +499,7 @@
     {
       "name": "GhastTEarBlockC2",
       "type": "recipe",
-      "sortid": 63,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -508,7 +508,7 @@
     {
       "name": "MagmaCreamBlockC1",
       "type": "recipe",
-      "sortid": 64,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -517,7 +517,7 @@
     {
       "name": "MagmaCreamBlockC2",
       "type": "recipe",
-      "sortid": 65,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -526,7 +526,7 @@
     {
       "name": "RottenFleshBlockC1",
       "type": "recipe",
-      "sortid": 66,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -535,7 +535,7 @@
     {
       "name": "RottenFleshBlockC2",
       "type": "recipe",
-      "sortid": 67,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -544,7 +544,7 @@
     {
       "name": "RottenFleshBlockC3",
       "type": "recipe",
-      "sortid": 68,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -553,7 +553,7 @@
     {
       "name": "SlimeBlockC2",
       "type": "recipe",
-      "sortid": 69,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -562,7 +562,7 @@
     {
       "name": "SpiderEyeC1",
       "type": "recipe",
-      "sortid": 70,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -571,7 +571,7 @@
     {
       "name": "SpiderEyeC2",
       "type": "recipe",
-      "sortid": 71,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -580,7 +580,7 @@
     {
       "name": "StringBlockC1",
       "type": "recipe",
-      "sortid": 72,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -589,7 +589,7 @@
     {
       "name": "StringBlockC2",
       "type": "recipe",
-      "sortid": 73,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -598,7 +598,7 @@
     {
       "name": "SpiderEyeBlock",
       "type": "recipe",
-      "sortid": 74,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -607,7 +607,7 @@
     {
       "name": "DenseMobDrops",
       "type": "tab",
-      "sortid": 75,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -616,7 +616,7 @@
     {
       "name": "Gunpowder1",
       "type": "block",
-      "sortid": 30,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -625,7 +625,7 @@
     {
       "name": "GunpowderBlock",
       "type": "recipe",
-      "sortid": 76,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -634,7 +634,7 @@
     {
       "name": "GunpowderUnblock",
       "type": "recipe",
-      "sortid": 77,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -643,7 +643,7 @@
     {
       "name": "Gunpowder2",
       "type": "block",
-      "sortid": 31,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -652,7 +652,7 @@
     {
       "name": "Gunpowder3",
       "type": "block",
-      "sortid": 32,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -661,7 +661,7 @@
     {
       "name": "GunpowderBlockC1",
       "type": "recipe",
-      "sortid": 78,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -670,7 +670,7 @@
     {
       "name": "GunpowderBlockC2",
       "type": "recipe",
-      "sortid": 79,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -679,7 +679,7 @@
     {
       "name": "NetherStar1",
       "type": "block",
-      "sortid": 33,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -688,7 +688,7 @@
     {
       "name": "NetherStarBLock",
       "type": "recipe",
-      "sortid": 80,
+      "sortid": 116,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -697,7 +697,7 @@
     {
       "name": "NetherStarUnblock",
       "type": "recipe",
-      "sortid": 81,
+      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -706,7 +706,7 @@
     {
       "name": "NetherStar2",
       "type": "block",
-      "sortid": 34,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -715,7 +715,7 @@
     {
       "name": "NetherStar3",
       "type": "block",
-      "sortid": 35,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -724,7 +724,7 @@
     {
       "name": "Bone4",
       "type": "block",
-      "sortid": 82,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -733,7 +733,7 @@
     {
       "name": "Bone5",
       "type": "block",
-      "sortid": 83,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -742,7 +742,7 @@
     {
       "name": "BoneBlockC3",
       "type": "recipe",
-      "sortid": 84,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -751,7 +751,7 @@
     {
       "name": "BoneBlockC4",
       "type": "recipe",
-      "sortid": 85,
+      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -760,7 +760,7 @@
     {
       "name": "EnderPearl4",
       "type": "block",
-      "sortid": 86,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -769,7 +769,7 @@
     {
       "name": "EnderPearl5",
       "type": "block",
-      "sortid": 87,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -778,7 +778,7 @@
     {
       "name": "EnderPearlBlockC3",
       "type": "recipe",
-      "sortid": 88,
+      "sortid": 120,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -787,7 +787,7 @@
     {
       "name": "EnderPearlBlockC4",
       "type": "recipe",
-      "sortid": 89,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -796,7 +796,7 @@
     {
       "name": "GhastTear4",
       "type": "block",
-      "sortid": 90,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -805,7 +805,7 @@
     {
       "name": "GhastTear5",
       "type": "block",
-      "sortid": 91,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -814,7 +814,7 @@
     {
       "name": "GhastTearBlockC3",
       "type": "recipe",
-      "sortid": 92,
+      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -823,7 +823,7 @@
     {
       "name": "GhastTearBlockC4",
       "type": "recipe",
-      "sortid": 93,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -832,7 +832,7 @@
     {
       "name": "Gunpowder4",
       "type": "block",
-      "sortid": 94,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -841,7 +841,7 @@
     {
       "name": "Gunpowder5",
       "type": "block",
-      "sortid": 95,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -850,7 +850,7 @@
     {
       "name": "GunpowderBlockC3",
       "type": "recipe",
-      "sortid": 96,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -859,7 +859,7 @@
     {
       "name": "GunpowderBlockC4",
       "type": "recipe",
-      "sortid": 97,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -868,7 +868,7 @@
     {
       "name": "MagmaCream4",
       "type": "block",
-      "sortid": 98,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -877,7 +877,7 @@
     {
       "name": "MagmaCream5",
       "type": "block",
-      "sortid": 99,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -886,7 +886,7 @@
     {
       "name": "MagmaCreamBlockC3",
       "type": "recipe",
-      "sortid": 100,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -895,7 +895,7 @@
     {
       "name": "MagmaCreamBlockC4",
       "type": "recipe",
-      "sortid": 101,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -904,7 +904,7 @@
     {
       "name": "RottenFlesh5",
       "type": "block",
-      "sortid": 102,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -913,7 +913,7 @@
     {
       "name": "RottenFleshBlockC4",
       "type": "recipe",
-      "sortid": 103,
+      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -922,7 +922,7 @@
     {
       "name": "Slime4",
       "type": "block",
-      "sortid": 104,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -931,7 +931,7 @@
     {
       "name": "Slime5",
       "type": "block",
-      "sortid": 105,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -940,7 +940,7 @@
     {
       "name": "SlimeBlockC3",
       "type": "recipe",
-      "sortid": 106,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -949,7 +949,7 @@
     {
       "name": "SlimeBlockC4",
       "type": "recipe",
-      "sortid": 107,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -958,7 +958,7 @@
     {
       "name": "SpiderEye4",
       "type": "block",
-      "sortid": 108,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -967,7 +967,7 @@
     {
       "name": "SpiderEye5",
       "type": "block",
-      "sortid": 109,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -976,7 +976,7 @@
     {
       "name": "SpiderEyeC3",
       "type": "recipe",
-      "sortid": 110,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -985,7 +985,7 @@
     {
       "name": "SpiderEyeC4",
       "type": "recipe",
-      "sortid": 111,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -994,7 +994,7 @@
     {
       "name": "String4",
       "type": "block",
-      "sortid": 112,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1003,7 +1003,7 @@
     {
       "name": "String5",
       "type": "block",
-      "sortid": 113,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1012,7 +1012,7 @@
     {
       "name": "StringBlockC3",
       "type": "recipe",
-      "sortid": 114,
+      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1021,7 +1021,7 @@
     {
       "name": "StringBlockC4",
       "type": "recipe",
-      "sortid": 115,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1030,7 +1030,7 @@
     {
       "name": "BlazeRod6",
       "type": "block",
-      "sortid": 116,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1039,7 +1039,7 @@
     {
       "name": "BlazeRod7",
       "type": "block",
-      "sortid": 117,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1048,7 +1048,7 @@
     {
       "name": "BlazeRodBlockC5",
       "type": "recipe",
-      "sortid": 118,
+      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1057,7 +1057,7 @@
     {
       "name": "BlazeRodBlockC6",
       "type": "recipe",
-      "sortid": 119,
+      "sortid": 136,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1066,7 +1066,7 @@
     {
       "name": "Bone6",
       "type": "block",
-      "sortid": 120,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1075,7 +1075,7 @@
     {
       "name": "Bone7",
       "type": "block",
-      "sortid": 121,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1084,7 +1084,7 @@
     {
       "name": "BoneBlockC5",
       "type": "recipe",
-      "sortid": 122,
+      "sortid": 137,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1093,7 +1093,7 @@
     {
       "name": "BoneBlockC6",
       "type": "recipe",
-      "sortid": 123,
+      "sortid": 138,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1102,7 +1102,7 @@
     {
       "name": "EnderPearl6",
       "type": "block",
-      "sortid": 124,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1111,7 +1111,7 @@
     {
       "name": "EnderPearl7",
       "type": "block",
-      "sortid": 125,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1120,7 +1120,7 @@
     {
       "name": "EnderPearlBlockC5",
       "type": "recipe",
-      "sortid": 126,
+      "sortid": 139,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1129,7 +1129,7 @@
     {
       "name": "EnderPearlBlockC6",
       "type": "recipe",
-      "sortid": 127,
+      "sortid": 140,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1138,7 +1138,7 @@
     {
       "name": "GhastTear6",
       "type": "block",
-      "sortid": 128,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1147,7 +1147,7 @@
     {
       "name": "GhastTear7",
       "type": "block",
-      "sortid": 129,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1156,7 +1156,7 @@
     {
       "name": "GhastTearBlockC5",
       "type": "recipe",
-      "sortid": 130,
+      "sortid": 141,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1165,7 +1165,7 @@
     {
       "name": "GhastTearBlockC6",
       "type": "recipe",
-      "sortid": 131,
+      "sortid": 142,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1174,7 +1174,7 @@
     {
       "name": "Gunpowder6",
       "type": "block",
-      "sortid": 132,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1183,7 +1183,7 @@
     {
       "name": "Gunpowder7",
       "type": "block",
-      "sortid": 133,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1192,7 +1192,7 @@
     {
       "name": "GunpowderBlockC5",
       "type": "recipe",
-      "sortid": 134,
+      "sortid": 143,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1201,7 +1201,7 @@
     {
       "name": "GunpowderBlockC6",
       "type": "recipe",
-      "sortid": 135,
+      "sortid": 144,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1210,7 +1210,7 @@
     {
       "name": "MagmaCream6",
       "type": "block",
-      "sortid": 136,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1219,7 +1219,7 @@
     {
       "name": "MagmaCream7",
       "type": "block",
-      "sortid": 137,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1228,7 +1228,7 @@
     {
       "name": "MagmaCreamBlockC5",
       "type": "recipe",
-      "sortid": 138,
+      "sortid": 145,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1237,7 +1237,7 @@
     {
       "name": "MagmaCreamBlockC6",
       "type": "recipe",
-      "sortid": 139,
+      "sortid": 146,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1246,7 +1246,7 @@
     {
       "name": "RottenFlesh6",
       "type": "block",
-      "sortid": 140,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1255,7 +1255,7 @@
     {
       "name": "RottenFlesh7",
       "type": "block",
-      "sortid": 141,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1264,7 +1264,7 @@
     {
       "name": "RottenFleshBlockC5",
       "type": "recipe",
-      "sortid": 142,
+      "sortid": 147,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1273,7 +1273,7 @@
     {
       "name": "RottenFleshBlockC6",
       "type": "recipe",
-      "sortid": 143,
+      "sortid": 148,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1282,7 +1282,7 @@
     {
       "name": "Slime6",
       "type": "block",
-      "sortid": 144,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1291,7 +1291,7 @@
     {
       "name": "Slime7",
       "type": "block",
-      "sortid": 145,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1300,7 +1300,7 @@
     {
       "name": "SlimeBlockC5",
       "type": "recipe",
-      "sortid": 146,
+      "sortid": 149,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1309,7 +1309,7 @@
     {
       "name": "SlimeBlockC6",
       "type": "recipe",
-      "sortid": 147,
+      "sortid": 150,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1318,7 +1318,7 @@
     {
       "name": "SpiderEye6",
       "type": "block",
-      "sortid": 148,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1327,7 +1327,7 @@
     {
       "name": "SpiderEye7",
       "type": "block",
-      "sortid": 149,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1336,7 +1336,7 @@
     {
       "name": "SpiderEyeC5",
       "type": "recipe",
-      "sortid": 150,
+      "sortid": 151,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1345,7 +1345,7 @@
     {
       "name": "SpiderEyeC6",
       "type": "recipe",
-      "sortid": 151,
+      "sortid": 152,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1354,7 +1354,7 @@
     {
       "name": "String6",
       "type": "block",
-      "sortid": 152,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1363,7 +1363,7 @@
     {
       "name": "String7",
       "type": "block",
-      "sortid": 153,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1372,7 +1372,7 @@
     {
       "name": "StringBlockC5",
       "type": "recipe",
-      "sortid": 154,
+      "sortid": 153,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1381,7 +1381,7 @@
     {
       "name": "StringBlockC6",
       "type": "recipe",
-      "sortid": 155,
+      "sortid": 154,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1390,7 +1390,7 @@
     {
       "name": "NetherStarBlockC1",
       "type": "recipe",
-      "sortid": 156,
+      "sortid": 155,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1399,7 +1399,7 @@
     {
       "name": "NetherStarBlockC2",
       "type": "recipe",
-      "sortid": 157,
+      "sortid": 156,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1412,8 +1412,8 @@
     "en_us": {
       "tile.string_1.name": "Block of Strings",
       "tile.ghast_tear_5.name": "Quadtruple Compressed Ghast Tears",
-      "tile.bone_2.name": "Compressed Bones",
       "tile.string_7.name": "Quintuple Compressed Strings",
+      "tile.bone_2.name": "Compressed Bones",
       "tile.ender_pearl_4.name": "Triple Compressed Ender Pearls",
       "tile.rotten_flesh_7.name": "Sextuple Compressed Rotten Flesh",
       "tile.nether_star_1.name": "Block of Nether Stars",

@@ -27,7 +27,7 @@ public class BlockRottenFlesh5 extends ElementsDensemobdropsMod.ModElement {
 	@GameRegistry.ObjectHolder("densemobdrops:rotten_flesh_5")
 	public static final Block block = null;
 	public BlockRottenFlesh5(ElementsDensemobdropsMod instance) {
-		super(instance, 102);
+		super(instance, 5);
 	}
 
 	@Override

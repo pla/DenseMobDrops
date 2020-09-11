@@ -27,7 +27,7 @@ public class BlockSpiderEye7 extends ElementsDensemobdropsMod.ModElement {
 	@GameRegistry.ObjectHolder("densemobdrops:spider_eye_7")
 	public static final Block block = null;
 	public BlockSpiderEye7(ElementsDensemobdropsMod instance) {
-		super(instance, 149);
+		super(instance, 34);
 	}
 
 	@Override

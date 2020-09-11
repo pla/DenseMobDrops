@@ -27,7 +27,7 @@ public class BlockSlime6 extends ElementsDensemobdropsMod.ModElement {
 	@GameRegistry.ObjectHolder("densemobdrops:slime_6")
 	public static final Block block = null;
 	public BlockSlime6(ElementsDensemobdropsMod instance) {
-		super(instance, 144);
+		super(instance, 19);
 	}
 
 	@Override

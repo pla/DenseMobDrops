@@ -27,7 +27,7 @@ public class BlockBlazeRod1 extends ElementsDensemobdropsMod.ModElement {
 	@GameRegistry.ObjectHolder("densemobdrops:blaze_rod_1")
 	public static final Block block = null;
 	public BlockBlazeRod1(ElementsDensemobdropsMod instance) {
-		super(instance, 10);
+		super(instance, 21);
 	}
 
 	@Override

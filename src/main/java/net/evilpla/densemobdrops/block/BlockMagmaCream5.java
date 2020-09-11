@@ -27,7 +27,7 @@ public class BlockMagmaCream5 extends ElementsDensemobdropsMod.ModElement {
 	@GameRegistry.ObjectHolder("densemobdrops:magma_cream_5")
 	public static final Block block = null;
 	public BlockMagmaCream5(ElementsDensemobdropsMod instance) {
-		super(instance, 99);
+		super(instance, 60);
 	}
 
 	@Override

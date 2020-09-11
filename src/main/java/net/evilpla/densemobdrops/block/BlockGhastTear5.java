@@ -27,7 +27,7 @@ public class BlockGhastTear5 extends ElementsDensemobdropsMod.ModElement {
 	@GameRegistry.ObjectHolder("densemobdrops:ghast_tear_5")
 	public static final Block block = null;
 	public BlockGhastTear5(ElementsDensemobdropsMod instance) {
-		super(instance, 91);
+		super(instance, 46);
 	}
 
 	@Override
