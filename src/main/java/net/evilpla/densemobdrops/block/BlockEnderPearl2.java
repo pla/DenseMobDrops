@@ -27,7 +27,7 @@ public class BlockEnderPearl2 extends ElementsDensemobdropsMod.ModElement {
 	@GameRegistry.ObjectHolder("densemobdrops:ender_pearl_2")
 	public static final Block block = null;
 	public BlockEnderPearl2(ElementsDensemobdropsMod instance) {
-		super(instance, 9);
+		super(instance, 11);
 	}
 
 	@Override

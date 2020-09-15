@@ -27,7 +27,7 @@ public class BlockNetherStar3 extends ElementsDensemobdropsMod.ModElement {
 	@GameRegistry.ObjectHolder("densemobdrops:nether_star_3")
 	public static final Block block = null;
 	public BlockNetherStar3(ElementsDensemobdropsMod instance) {
-		super(instance, 72);
+		super(instance, 92);
 	}
 
 	@Override
@@ -58,7 +58,7 @@ public class BlockNetherStar3 extends ElementsDensemobdropsMod.ModElement {
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<String> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add("81 Nether Stars");
+			list.add("729 Nether Stars");
 		}
 	}
 }

@@ -27,7 +27,7 @@ public class BlockString4 extends ElementsDensemobdropsMod.ModElement {
 	@GameRegistry.ObjectHolder("densemobdrops:string_4")
 	public static final Block block = null;
 	public BlockString4(ElementsDensemobdropsMod instance) {
-		super(instance, 52);
+		super(instance, 66);
 	}
 
 	@Override

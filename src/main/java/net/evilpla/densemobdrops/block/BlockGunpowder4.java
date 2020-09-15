@@ -27,7 +27,7 @@ public class BlockGunpowder4 extends ElementsDensemobdropsMod.ModElement {
 	@GameRegistry.ObjectHolder("densemobdrops:gunpowder_4")
 	public static final Block block = null;
 	public BlockGunpowder4(ElementsDensemobdropsMod instance) {
-		super(instance, 66);
+		super(instance, 84);
 	}
 
 	@Override

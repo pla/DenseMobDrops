@@ -45,7 +45,7 @@ import java.util.function.Supplier;
 @Mod(modid = DensemobdropsMod.MODID, version = DensemobdropsMod.VERSION)
 public class DensemobdropsMod {
 	public static final String MODID = "densemobdrops";
-	public static final String VERSION = "0.0.3";
+	public static final String VERSION = "1.0.0";
 	public static final SimpleNetworkWrapper PACKET_HANDLER = NetworkRegistry.INSTANCE.newSimpleChannel("densemobdrops:a");
 	@SidedProxy(clientSide = "net.evilpla.densemobdrops.ClientProxyDensemobdropsMod", serverSide = "net.evilpla.densemobdrops.ServerProxyDensemobdropsMod")
 	public static IProxyDensemobdropsMod proxy;

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "densemobdrops:blocks/string_8_x64",
+    "up": "densemobdrops:blocks/string_8_x64",
+    "north": "densemobdrops:blocks/string_8_x64",
+    "east": "densemobdrops:blocks/string_8_x64",
+    "south": "densemobdrops:blocks/string_8_x64",
+    "west": "densemobdrops:blocks/string_8_x64",
+    "particle": "densemobdrops:blocks/string_8_x64"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 10,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GhastTear8"
+      },
+      {
+        "value": "CUSTOM:GhastTear8"
+      },
+      {
+        "value": "CUSTOM:GhastTear8"
+      },
+      {
+        "value": "CUSTOM:GhastTear8"
+      },
+      {
+        "value": "CUSTOM:GhastTear8"
+      },
+      {
+        "value": "CUSTOM:GhastTear8"
+      },
+      {
+        "value": "CUSTOM:GhastTear8"
+      },
+      {
+        "value": "CUSTOM:GhastTear8"
+      },
+      {
+        "value": "CUSTOM:GhastTear8"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GhastTear9"
+    },
+    "name": "ghast_tear_block_c_8",
+    "namespace": "mod"
+  }
+}

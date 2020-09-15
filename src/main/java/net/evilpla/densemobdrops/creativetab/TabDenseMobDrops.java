@@ -13,7 +13,7 @@ import net.evilpla.densemobdrops.ElementsDensemobdropsMod;
 @ElementsDensemobdropsMod.ModElement.Tag
 public class TabDenseMobDrops extends ElementsDensemobdropsMod.ModElement {
 	public TabDenseMobDrops(ElementsDensemobdropsMod instance) {
-		super(instance, 111);
+		super(instance, 133);
 	}
 
 	@Override

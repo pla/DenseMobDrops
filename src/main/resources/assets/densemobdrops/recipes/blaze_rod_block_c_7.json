@@ -1,0 +1,37 @@
+{
+  "group": "densemobdrops",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "densemobdrops:blaze_rod_7"
+    },
+    {
+      "item": "densemobdrops:blaze_rod_7"
+    },
+    {
+      "item": "densemobdrops:blaze_rod_7"
+    },
+    {
+      "item": "densemobdrops:blaze_rod_7"
+    },
+    {
+      "item": "densemobdrops:blaze_rod_7"
+    },
+    {
+      "item": "densemobdrops:blaze_rod_7"
+    },
+    {
+      "item": "densemobdrops:blaze_rod_7"
+    },
+    {
+      "item": "densemobdrops:blaze_rod_7"
+    },
+    {
+      "item": "densemobdrops:blaze_rod_7"
+    }
+  ],
+  "result": {
+    "item": "densemobdrops:blaze_rod_8",
+    "count": 1
+  }
+}
